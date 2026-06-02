@@ -1,0 +1,6 @@
+{
+  "name": "Cognitive Tracker",
+  "description": "A psychological habit tracker that correlates actions, roadblocks, and feelings to build better lifestyle habits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
